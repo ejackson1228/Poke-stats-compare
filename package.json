@@ -1,0 +1,19 @@
+{
+  "name": "poke-stats-compare",
+  "version": "1.0.0",
+  "description": "A js app to compare pokemon battle stats at a glance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejackson1228/Poke-stats-compare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejackson1228/Poke-stats-compare/issues"
+  },
+  "homepage": "https://github.com/ejackson1228/Poke-stats-compare#readme"
+}
